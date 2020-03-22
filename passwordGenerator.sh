@@ -44,7 +44,7 @@ do
           echo -e "\t -s | --silent \t\t\t Do not display the password via the terminal."
           echo -e "\t -lc | --lowercase(=BOOL) \t Set the appearance of lowercase letters to true or false. Default value is true"
           echo -e "\t -c | --capital(=BOOL) \t Set the appearance of capital letters to true or false. Default value is true"
-          echo -e "\n -c | --number(=BOOL) \t Set the appearance of numbers to true or false. Default value is true"
+          echo -e "\n -n | --number(=BOOL) \t Set the appearance of numbers to true or false. Default value is true"
           echo -e "\n -sy | --symbol(=BOOL) \t Set the appearance of symbols to true or false. Default value is false"
 
 
