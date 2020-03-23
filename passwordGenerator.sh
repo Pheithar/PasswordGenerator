@@ -41,7 +41,7 @@ do
           echo -e "\t -h | --help \t\t\t Opens the 'help' panel."
           echo -e "\t -l | --lenght=LENGHT \t\t Change the number of characters of the password to LENGHT. Default value is 14."
           echo -e "\t -o | --output=FILE \t\t Save the password in FILE."
-          echo -e "\t -s | --silent \t\t\t Do not display the password via the terminal."
+          echo -e "\t -s | --silent \t\t\t Does not display the password via the terminal."
           echo -e "\t -lc | --lowercase(=BOOL) \t Set the appearance of lowercase letters to BOOL, that must be true or false. Default value is true".
           echo -e "\t -c | --capital(=BOOL) \t Set the appearance of capital letters to BOOL, that must be true or false. Default value is true".
           echo -e "\n -n | --number(=BOOL) \t Set the appearance of numbers to BOOL, that must be true or false. Default value is true".
