@@ -8,11 +8,11 @@ The password is generated using the bash variable **$RANDOM**.
 
 To generate a password, execute the script ***passwordGenerator.sh*** in one of the following ways:
 
-```
+```shell
 bash passwordGenerator.sh
 ```
 or
-```
+```shell
 chmod +x passwordGenerator.sh
 ./passwordGenerator.sh
 ```
